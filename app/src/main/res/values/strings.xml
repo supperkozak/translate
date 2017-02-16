@@ -1,11 +1,3 @@
 <resources>
-    <string name="app_name">RemindMe</string>
-    <string name="search_title">Search</string>
-    <string name="open">Open</string>
-    <string name="close">Close</string>
-    <string name="menu_item_notification">Notification</string>
-    <string name="menu_item_history">History</string>
-    <string name="menu_item_todo">TODO</string>
-    <string name="menu_item_ideas">Ideas</string>
-    <string name="menu_item_birthdays">Birthdays</string>
+    <string name="app_name">translate</string>
 </resources>
